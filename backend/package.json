@@ -1,7 +1,6 @@
 {
-  "name": "chefit",
+  "name": "backend",
   "version": "1.0.0",
-  "description": "### Acest template public poate fi folosit pentru a vă crea repository-ul pentru proba tehnică. El permite și crearea automată de issue-uri, în concordanță cu task-urile probei: * Homepage * Profile * Register & Login * Add Recipes Page * Recipes Page & Search",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
@@ -10,6 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
