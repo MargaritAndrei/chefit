@@ -1,0 +1,38 @@
+header {
+    min-height: 100vh;
+    max-width: 100%;
+    background-image: url('../../assets/header.png');
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+/*
+header .wrapper{
+
+}
+*/
+
+header .wrapper img {
+    display: block;
+    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+    width: 80%; /* Adjust this value to make the image smaller or larger */
+    max-width: 400px; /* Optional: Set a maximum width */
+}
+/*
+header .cta{
+   
+}
+
+header .cta .course-name{
+    font-weight: 800;
+    font-size: 10px;
+    color: #000;
+}
+
+header .cta .course-name::after{
+
+}*/

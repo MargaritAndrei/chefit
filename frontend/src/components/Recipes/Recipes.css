@@ -1,0 +1,20 @@
+rec {
+    
+    background-color: #00236D;
+    width: 100%;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: top;
+}
+
+rec div{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58.51px;
+    color: #FFFFFF;
+    padding: 20px;
+}
+

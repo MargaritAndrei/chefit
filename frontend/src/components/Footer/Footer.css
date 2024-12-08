@@ -1,0 +1,57 @@
+footer {
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+form {
+    max-width: 600px;
+    margin-left: 50vh;
+}
+
+co{
+    font-family: 'Montserrat';
+    color: #009C41;
+    font-weight: 700;
+    line-height: 29.26px;
+    font-size: 48px;
+    margin-left: 70vh;
+}
+
+
+input[type=text],
+input[type=email] {
+    width: 100%;
+    box-sizing: border-box;
+    border: 2px solid #009C41;
+    background-color: white; 
+    background-repeat: no-repeat;
+    padding: 10px 7px;
+    outline: none;
+}
+
+::placeholder{
+    color:#009C41;
+}
+
+input[type=text],
+input[type=email]{
+    font-family: 'Montserrat';
+    color: #009C41;
+    font-weight: 300;
+    line-height: 29.26px;
+    font-size: 24px;
+}
+
+
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
