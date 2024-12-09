@@ -16,17 +16,7 @@ body {
     font-family: 'Inter', 'Montserrat';
 }
 
-.wrapper{
-    max-width: 1024px;
-}
-
 a {
     text-decoration: none;
     color: var(--blue);
-}
-
-@media (max-width: 1024px) {
-    .wrapper {
-        max-width: 694px;
-    }
 }

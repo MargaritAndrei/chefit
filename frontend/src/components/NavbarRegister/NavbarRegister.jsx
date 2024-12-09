@@ -1,8 +1,8 @@
 import React from 'react'
-import "./Navbar.css"
+import "./NavbarRegister.css"
 import Chefit from '../../assets/chefitsmall.svg';
 
-const Navbar = () => {
+const NavbarRegister = () => {
   return (
     <nav>
       <cra href="#" className="logo">
@@ -26,4 +26,4 @@ const Navbar = () => {
   )
 }
 
-export default Navbar
+export default NavbarRegister
