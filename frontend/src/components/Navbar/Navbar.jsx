@@ -10,14 +10,14 @@ const Navbar = () => {
           <img src={Chefit}/>
         </li>
         <acra>
-          <a href="#">Recipes</a>
-          <a href="#">Add Recipe</a>
+          <a href="/recipes">Recipes</a>
+          <a href="/add">Add Recipe</a>
         </acra>
       </cra>
      
       <lr>
-        <a href="#">Login</a>
-        <a href="#">Register</a>
+        <a href="/login">Login</a>
+        <a href="/register">Register</a>
       </lr>
     </nav>
   )
